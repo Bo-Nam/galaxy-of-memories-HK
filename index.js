@@ -24,10 +24,10 @@ const defaultImageFiles = Array.from(
 
 // Messages shown on the loading screen, switched by loading progress
 const loadingQuotes = [
-  '"8/3 nay, mong em cuoi that xinh nhu mot vi sao."',
-  '"Ngan ha co hang ty vi sao, con anh chi thay em la dep nhat."',
-  '"Dang gom tung anh nho de bien thanh mot vu tru de thuong."',
-  '"Gan xong roi, chuc em 8/3 luon ruc ro va binh yen."',
+  '"20/10 nay, chúc em luôn rạng rỡ và hạnh phúc bên anh nhé."',
+  '"Ngân hà có hàng tỷ vì sao, nhưng em là đóa hoa đẹp nhất của đời anh."',
+  '"Đang gom từng khoảnh khắc ngọt ngào để gửi đến em ngày 20/10 thật trọn vẹn."',
+  '"Gần xong rồi, chúc một nửa của anh có ngày 20/10 ngập tràn niềm vui!"',
 ];
 
 // ===== Loading screen helpers =====
